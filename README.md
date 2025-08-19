@@ -1,5 +1,5 @@
-# nuscenes_CARLA
-# 🚗 Autonomous Driving Mini Projects with nuScenes & CARLA
+## nuscenes_CARLA
+## 🚗 Autonomous Driving Mini Projects with nuScenes & CARLA
 
 이 레포지토리는 nuScenes 데이터셋과 CARLA 시뮬레이터를 활용하여 자율주행 분야의 핵심 기술들을 소규모 프로젝트로 실습한 결과물을 모아둔 것입니다.  
 실제 현업에서 다루는 perception → prediction → planning 과정을 일부 체험해보고자 공부한 내용을 바탕으로 구성되었습니다.
